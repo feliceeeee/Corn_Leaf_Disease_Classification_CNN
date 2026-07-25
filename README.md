@@ -1,1 +1,5 @@
-# Corn_Leaf_Disease_Classification_CNN
+**Corn Leaf Disease Classification Using Convolutional Neural Networks (CNN)**
+
+Developed a deep learning solution for multiclass classification of corn leaf diseases using image data. The project began with exploratory data analysis (EDA) to examine image characteristics such as resolution and aspect ratio, followed by image preprocessing and dataset preparation using a train-validation-test split. An end-to-end computer vision pipeline was implemented to classify multiple categories of corn leaf diseases from leaf images, supporting the early identification of plant health conditions.
+
+A baseline **AlexNet** architecture was implemented from scratch and compared with an improved CNN architecture to enhance classification performance. The models were evaluated on unseen test data using multiple classification metrics, with the improved model demonstrating significantly better accuracy and generalization than the baseline. This project strengthened my practical experience in **computer vision, deep learning, image classification, convolutional neural networks (CNN), model evaluation, and developing end-to-end AI solutions for agricultural applications**.
